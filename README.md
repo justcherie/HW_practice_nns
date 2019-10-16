@@ -1,8 +1,9 @@
-## HW_practice_nns
-##practice of cnn and rnn evaluation metrics _open_code_other_attribution_ (not mine)
+## HW_practice_nns.
+##practice of cnn and rnn evaluation metrics _open_code_other_attribution_ (not mine).
 
-##evaluation of different metrics include: batch_size, epochs, and dropout
-##initial (base) training run results are below
+##evaluation of different metrics include: batch_size, epochs, and dropout.
+
+##initial (base) training run results are below.
 
 #x_train shape: (60000, 28, 28, 1)
 #60000 train samples
